@@ -1,0 +1,8 @@
+flags: 
+  yesod-project:
+    library-only: false
+    dev: false
+packages:
+  - ./yesod-project
+extra-deps: 
+resolver: lts-2.19
